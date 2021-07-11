@@ -2,4 +2,10 @@ version1
 version2
 hello
 print"Hello friend"
+<<<<<<< HEAD
 print"coMMit bugfix"
+=======
+new commit
+Hi
+
+>>>>>>> new-api
